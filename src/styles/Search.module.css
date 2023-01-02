@@ -1,0 +1,59 @@
+.searchForm {
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.searchForm>input {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(128, 128, 128, .4);
+    color: #3b4a54;
+    outline: none;
+
+}
+
+.searchForm>input:focus {
+    border-bottom: 1px solid rgba(128, 128, 128, .6);
+}
+
+.searchForm>input::placeholder {
+    color: rgba(59, 74, 84, .6);
+}
+
+.searchForm>.userChat img {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.userChat {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    color: black;
+    border: none;
+    border-bottom: 1px solid #e2e4e4;
+}
+
+.userChat:hover {
+    background-color: #f0f2f5;
+}
+
+.searchIcon {
+    margin: 5px;
+    color: gray;
+}
+
+.userChatInfo>span {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.userChatInfo>p {
+    font-size: 14px;
+    color: gray;
+}

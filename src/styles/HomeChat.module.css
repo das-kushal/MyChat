@@ -1,0 +1,25 @@
+.home {
+    background-color: #128c7e;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 65%;
+    height: 80%;
+    display: flex;
+    overflow: hidden;
+}
+
+.sidebar {
+    flex: 1;
+    background-color: #ffffff;
+}
+
+.chat {
+    flex: 2;
+}

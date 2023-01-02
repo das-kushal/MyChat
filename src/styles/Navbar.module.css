@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #f0f2f5;
+    height: 50px;
+    padding: 10px;
+    justify-content: space-between;
+    border-right: 1px solid #e2e4e4;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.user {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.navimg {
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+}
