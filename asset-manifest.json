@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mychatkd.netlify.app/static/css/main.c7f4a65e.css",
+    "main.js": "/mychatkd.netlify.app/static/js/main.d952b849.js",
+    "index.html": "/mychatkd.netlify.app/index.html",
+    "main.c7f4a65e.css.map": "/mychatkd.netlify.app/static/css/main.c7f4a65e.css.map",
+    "main.d952b849.js.map": "/mychatkd.netlify.app/static/js/main.d952b849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7f4a65e.css",
+    "static/js/main.d952b849.js"
+  ]
+}
