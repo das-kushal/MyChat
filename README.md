@@ -1,4 +1,4 @@
-# MyChat
+# MyChat . *[MyChat](https://mychatkd.netlify.app)*
 
 ## Created this chat app using React &nbsp;![React](https://badges.aleen42.com/src/react.svg)
 
@@ -12,7 +12,7 @@
 > This is a chat app called MyChat which can be used to communicate and send messages and images to any other user 
 > who is registered in the app
 
-## Use of firebase
+## Use of firebase &nbsp;![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 > This is using firebase for authentication and realtime chat updation and syncing
 
